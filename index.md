@@ -1,4 +1,6 @@
-## Welcome to PONKAN! Studio
+## Welcome to PONKAN!
+
+Bem-vinde ao site oficial que está em manutenção. 
 
 You can use the [editor on GitHub](https://github.com/PONKAN-Studios/home/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
